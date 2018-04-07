@@ -1,0 +1,9 @@
+C:\Users\Oxigen\source\repos\Responsive Slider\bin\Debug\Responsive Slider.exe.config
+C:\Users\Oxigen\source\repos\Responsive Slider\bin\Debug\Responsive Slider.exe
+C:\Users\Oxigen\source\repos\Responsive Slider\bin\Debug\Responsive Slider.pdb
+C:\Users\Oxigen\source\repos\Responsive Slider\obj\Debug\Responsive_Slider.Form1.resources
+C:\Users\Oxigen\source\repos\Responsive Slider\obj\Debug\Responsive_Slider.Properties.Resources.resources
+C:\Users\Oxigen\source\repos\Responsive Slider\obj\Debug\Responsive Slider.csproj.GenerateResource.Cache
+C:\Users\Oxigen\source\repos\Responsive Slider\obj\Debug\Responsive Slider.csproj.CoreCompileInputs.cache
+C:\Users\Oxigen\source\repos\Responsive Slider\obj\Debug\Responsive Slider.exe
+C:\Users\Oxigen\source\repos\Responsive Slider\obj\Debug\Responsive Slider.pdb
